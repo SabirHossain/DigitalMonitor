@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DigitalClock.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="backColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">54, 60, 73</Value>
+    </Setting>
+    <Setting Name="alwayonTop" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="backgroundTransparent" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Transparent" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="alarmTime" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">1890-01-01</Value>
+    </Setting>
+    <Setting Name="opacity" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0.90</Value>
+    </Setting>
+    <Setting Name="everydayAlarm" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="isAlaramOn" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="isAlarmPending" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
